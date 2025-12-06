@@ -91,6 +91,8 @@ RMSE - 0.98
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
+Contact me for model dataset
+
 
 ## Privacy & Ethics
 
