@@ -75,26 +75,22 @@ The model uses baseline statistics for normalization and comparison:
 - Subject-specific means and standard deviations
 
 ### Performance Metrics
-[Add your model's accuracy, RMSE, or other relevant metrics here]
+RMSE - 0.98
 
 ## Technologies Used
 
 **Backend:**
 - Python
-- [Your ML framework: scikit-learn/TensorFlow/PyTorch]
-- [Your API framework: Flask/FastAPI]
+- scikit-learn
+- Flask with RestAPI's
 
 **Frontend:**
-- [Your frontend framework: React/Vue/Next.js]
-- [UI library if any]
+- React.js
+- tailwindcss- v4.0.8d
 
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-[Add your license here - MIT, Apache 2.0, etc.]
 
 ## Privacy & Ethics
 
@@ -105,4 +101,4 @@ This application handles student performance data. Please ensure:
 
 ## Contact
 
-[Your name/email or project maintainer info]
+Prashant Singh Rajput - prashantrajput7116@gmail.com
