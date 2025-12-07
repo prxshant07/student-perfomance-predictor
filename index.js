@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import App from './app.js'; // Import your main component or application logic
-
+import './index.css';
 // --- Modern React 18+ Setup ---
 
 /**
@@ -28,4 +28,5 @@ if (rootElement) {
 // NOTE: If you are using this in a simple environment without React/JSX setup,
 // you might need to adapt './app.js' to export a simple function or class
 // and call it directly here, or if 'app.js' is an Express server, you would
+
 // import it here and call its 'listen' method.
